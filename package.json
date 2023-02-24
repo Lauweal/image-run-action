@@ -28,7 +28,7 @@
     "ssh2": "^1.11.0"
   },
   "devDependencies": {
-    "@types/node": "^18.11.0",
+    "@types/node": "^18.14.1",
     "@types/ssh2": "^1.11.6",
     "@typescript-eslint/parser": "^4.33.0",
     "@vercel/ncc": "^0.31.1",
